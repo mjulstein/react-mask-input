@@ -1,8 +1,8 @@
 {
-  "name": "react-masked-input",
+  "name": "@marolla/react-input-mask",
   "description": "Masked input component for React 18",
   "version": "1.0.0",
-  "homepage": "https://github.com/PauloMarolla/react-masked-input",
+  "homepage": "https://github.com/PauloMarolla/@marolla/react-input-mask",
   "license": "MIT",
   "author": "Paulo Marolla",
   "keywords": [
@@ -100,7 +100,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/PauloMarolla/react-masked-input.git"
+    "url": "https://github.com/PauloMarolla/@marolla/react-input-mask.git"
   },
   "dependencies": {
     "invariant": "^2.2.4",

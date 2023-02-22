@@ -1,5 +1,5 @@
-# react-masked-input
-**react-masked-input** is the stable version of the react-input-mask library for React 18 or later.
+# @marolla/react-input-mask
+**@marolla/react-input-mask** is the stable version of the react-input-mask library for React 18 or later.
 
 If you need support for older versions, use [version 2](https://www.npmjs.com/package/react-input-mask).
 
@@ -21,11 +21,11 @@ If you need support for older versions, use [version 2](https://www.npmjs.com/pa
 
 **npm**
 
-```npm install react-masked-input --save```
+```npm install @marolla/react-input-mask --save```
 
 **yarn**
 
-```yarn add react-masked-input -D```
+```yarn add @marolla/react-input-mask -D```
   
 
 # Usage
@@ -34,7 +34,7 @@ If you need support for older versions, use [version 2](https://www.npmjs.com/pa
 
 import React from  "react"
 
-import InputMask from  "react-masked-input";
+import InputMask from  "@marolla/react-input-mask";
 
   
 
@@ -231,7 +231,7 @@ To use another component instead of regular `<input />` provide it as children. 
 
 import React from  'react';
 
-import InputMask from  'react-masked-input';
+import InputMask from  '@marolla/react-input-mask';
 
 import MaterialInput from  '@material-ui/core/Input';
 
@@ -358,4 +358,4 @@ cy.get("input")
 ````
 
  ### Author 🤝
-  **react-masked-input** uses **react-input-mask** and **react-input-mask-next** as a base. Both libraries are having bugs in the React 18 version, so I cloned the project and fixed the bugs and created **react-masked-input**.
+  **@marolla/react-input-mask** uses **react-input-mask** and **react-input-mask-next** as a base. Both libraries are having bugs in the React 18 version, so I cloned the project and fixed the bugs and created **@marolla/react-input-mask**.
