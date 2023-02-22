@@ -25,7 +25,7 @@ If you need support for older versions, use [version 2](https://www.npmjs.com/pa
 
 **yarn**
 
-```yarn add @marolla/react-input-mask -D```
+```yarn add @marolla/react-input-mask```
   
 
 # Usage
