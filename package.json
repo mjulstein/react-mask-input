@@ -1,7 +1,7 @@
 {
   "name": "@marolla/react-input-mask",
   "description": "Masked input component for React 18",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "homepage": "https://github.com/PauloMarolla/react-mask-input",
   "license": "MIT",
   "author": "Paulo Marolla",
